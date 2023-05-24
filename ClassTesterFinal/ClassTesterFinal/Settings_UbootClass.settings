@@ -1,0 +1,12 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="FRE_Auftragseingabe" GeneratedClassName="Settings_UbootClass">
+  <Profiles />
+  <Settings>
+    <Setting Name="pathIcon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">G:\Pruefstrassen\FRE-Autragseingabe\FRE-Auftragseingabe\FRE-Auftragseingabe\bin\Debug\net7.0-windows\</Value>
+    </Setting>
+    <Setting Name="fileicon" Type="System.String" Scope="User">
+      <Value Profile="(Default)">YelSub.ico</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
